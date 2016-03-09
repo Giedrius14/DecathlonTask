@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<decathlon>
+    <allParticipants>
+        <entry>
+            <key>1.</key>
+            <value>
+                <inputData>12.61</inputData>
+                <inputData>5.00</inputData>
+                <inputData>9.22</inputData>
+                <inputData>1.50</inputData>
+                <inputData>60.39</inputData>
+                <inputData>16.43</inputData>
+                <inputData>21.60</inputData>
+                <inputData>2.60</inputData>
+                <inputData>35.81</inputData>
+                <inputData>5.25.72 </inputData>
+                <name>Siim Susi</name>
+                <place>1-2</place>
+                <totalScore>4203</totalScore>
+            </value>
+        </entry>
+        <entry>
+            <key>2.</key>
+            <value>
+                <inputData>12.61</inputData>
+                <inputData>5.00</inputData>
+                <inputData>9.22</inputData>
+                <inputData>1.50</inputData>
+                <inputData>60.39</inputData>
+                <inputData>16.43</inputData>
+                <inputData>21.60</inputData>
+                <inputData>2.60</inputData>
+                <inputData>35.81</inputData>
+                <inputData>5.25.72 </inputData>
+                <name>Siim Suuu</name>
+                <place>1-2</place>
+                <totalScore>4203</totalScore>
+            </value>
+        </entry>
+        <entry>
+            <key>3</key>
+            <value>
+                <inputData>13.75</inputData>
+                <inputData>4.84</inputData>
+                <inputData>10.12</inputData>
+                <inputData>1.50</inputData>
+                <inputData>68.44</inputData>
+                <inputData>19.18</inputData>
+                <inputData>30.85</inputData>
+                <inputData>2.80</inputData>
+                <inputData>33.88</inputData>
+                <inputData>6.22.75 </inputData>
+                <name>Jaana Lind</name>
+                <place>3</place>
+                <totalScore>3496</totalScore>
+            </value>
+        </entry>
+        <entry>
+            <key>4</key>
+            <value>
+                <inputData>13.04</inputData>
+                <inputData>4.53</inputData>
+                <inputData>7.79</inputData>
+                <inputData>1.55</inputData>
+                <inputData>64.72</inputData>
+                <inputData>18.74</inputData>
+                <inputData>24.20</inputData>
+                <inputData>2.40</inputData>
+                <inputData>28.20</inputData>
+                <inputData>6.50.76 </inputData>
+                <name>Beata Kana</name>
+                <place>4</place>
+                <totalScore>3201</totalScore>
+            </value>
+        </entry>
+        <entry>
+            <key>5.</key>
+            <value>
+                <inputData>13.43</inputData>
+                <inputData>4.35</inputData>
+                <inputData>8.64</inputData>
+                <inputData>1.50</inputData>
+                <inputData>66.06</inputData>
+                <inputData>19.05</inputData>
+                <inputData>24.89</inputData>
+                <inputData>2.20</inputData>
+                <inputData>33.48</inputData>
+                <inputData>6.51.01</inputData>
+                <name>Anti Loop</name>
+                <place>5-6</place>
+                <totalScore>3099</totalScore>
+            </value>
+        </entry>
+        <entry>
+            <key>6.</key>
+            <value>
+                <inputData>13.43</inputData>
+                <inputData>4.35</inputData>
+                <inputData>8.64</inputData>
+                <inputData>1.50</inputData>
+                <inputData>66.06</inputData>
+                <inputData>19.05</inputData>
+                <inputData>24.89</inputData>
+                <inputData>2.20</inputData>
+                <inputData>33.48</inputData>
+                <inputData>6.51.01</inputData>
+                <name>Anti Leep</name>
+                <place>5-6</place>
+                <totalScore>3099</totalScore>
+            </value>
+        </entry>
+    </allParticipants>
+</decathlon>
